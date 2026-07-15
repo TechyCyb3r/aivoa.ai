@@ -101,12 +101,4 @@ App: http://localhost:5173
 
 The frontend expects the backend at `http://localhost:8000` (override with
 `VITE_API_URL` in `frontend/.env`).
-
 ---
-
-## Submission
-
-- Upload this repository to GitHub with this README.
-- Record a 10–15 min video: frontend walkthrough, demo of all 5 LangGraph
-  tools, code explanation, and a summary of the task understanding.
-- Submit both links via the Google Form provided in the assignment PDF.
